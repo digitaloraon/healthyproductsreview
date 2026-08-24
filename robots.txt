@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digitaloraon.github.io/healthyproductsreview/sitemap.xml
